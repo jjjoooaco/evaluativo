@@ -1,0 +1,2 @@
+Me base en la pagina oficial de adidas, en varios modelos de zapatillas, colores y talles. 
+la pagina tiene 4 secciones, hombres, mujeres, niños y hasta 60% off, varios colores y talles. y se puede agreagar al carrito el producto de preferencia de cada cliente. 
